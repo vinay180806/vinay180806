@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I dont't just learn Tech - I use it👨🏻‍💻</h1>
+  <h1>I don't just learn Tech - I use it👨🏻‍💻</h1>
 </div>
 
 ### 👋 Hi ! I'm Vinay
